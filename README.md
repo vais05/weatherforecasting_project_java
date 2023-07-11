@@ -29,8 +29,11 @@ providing users with timely and precise weather predictions.
 
 Throughout the development process, we have achieved the following key objectives:
 
- 1) Data Retrieval. 
+ 1) Data Retrieval.
+     
  2)Data Parsing.
+
  3)Data Presentation.
+ 
  4)Modularity and Reusability.
 
