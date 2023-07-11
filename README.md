@@ -1,22 +1,22 @@
 # weatherforecasting_project_java
 
-Problem Statements :
+# Problem Statements :
 
 The objective of this project is to develop a weather forecasting system in Java that provides accurate and timely weather predictions for a specified location. 
 The system should utilize available meteorological data to generate forecasts for upcoming days, including information on temperature, precipitation, wind speed,
 and atmospheric conditions. The system should be user-friendly, allowing users to input their desired location and retrieve the forecasted weather information in a clear and understandable format.
 
-- Our project aims to leverage Java programming and external weather data APIs to provide accurate and up-to-date weather forecasts.
+# - Our project aims to leverage Java programming and external weather data APIs to provide accurate and up-to-date weather forecasts.
 
-- We focused on retrieving weather data from the OpenWeatherMap API and presenting it in a user-friendly manner.
+# - We focused on retrieving weather data from the OpenWeatherMap API and presenting it in a user-friendly manner.
 
-Introduction :
+# Introduction :
 
 Weather forecasting is the science and practice of predicting atmospheric conditions for a specific location and time period in the future.
 It is a crucial field that provides valuable information about temperature, precipitation, wind speed, humidity, and other atmospheric phenomena.
 Accurate weather forecasts enable individuals, businesses, and governments to plan activities, make informed decisions, and take necessary precautions.
 
-Project Overview :
+# Project Overview :
 
 The Weather Forecasting System project aims to develop a robust and accurate solution for predicting weather conditions.
 It collects meteorological data, applies advanced algorithms, and utilizes statistical models to generate reliable forecasts. 
@@ -27,7 +27,7 @@ The project's objective is to enhance decision-making and planning in domains li
 providing users with timely and precise weather predictions.
 
 
-Throughout the development process, we have achieved the following key objectives:
+# Throughout the development process, we have achieved the following key objectives:
 
  1)Data Retrieval.
      
